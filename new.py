@@ -52,6 +52,7 @@ For each relevant story:
 - Summarize the issue/development clearly
 - Include the reporting date (must be today)
 - Add a reliable source link
+- News Type
 
 Exclude any older or unrelated topics.
 """.strip()
